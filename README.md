@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
 <h3 align="center">Backend developer, open for opportunities to enhance my skills and learn more about the different programming languages.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiago-carinhas&label=Profile%20views&color=0e75b6&style=flat" alt="tiago-carinhas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiago-carinhas" alt="tiago-carinhas" /></a> </p>
-
 - 🌱 I’m currently learning **C#, .NET and JavaScript**
 
 <h3 align="left">Connect with me:</h3>
